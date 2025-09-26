@@ -7,17 +7,8 @@ Bu proje, MR görüntülerinden farklı beyin tümörü tiplerini ve sağlıklı
 
 ## 📂 Proje Yapısı
 
-- **`notebooks/brain_tumor_classification.ipynb`**  
-  Veri analizi, ön işleme, model eğitimi, değerlendirme ve görselleştirme adımlarını içeren ana Jupyter Notebook.  
-
-- **`data/`**  
-  Veri seti açıklamaları, sınıf yapısı ve kaynak bilgisi.  
-
-- **`saved_models/`**  
-  Eğitilmiş model dosyaları ve açıklamaları.  
-
-- **`results/`**  
-  Modelin performans çıktıları: metrikler, confusion matrix ve Grad-CAM görselleri.  
+- **`bootcamp-proje.ipynb`**  
+  Veri analizi, ön işleme, model eğitimi, değerlendirme ve görselleştirme adımlarını içeren ana Notebook.  
 
 ---
 
