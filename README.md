@@ -33,7 +33,6 @@ Modelin performansı test setinde şu şekilde elde edilmiştir:
 
 - `notebooks/bootcamp_proje.ipynb` → Veri analizi, eğitim ve değerlendirme adımları.  
 - `saved_models/brain_tumor_classification_model.keras` → Eğitilmiş model dosyası.  
-- `results/results_summary.md` → Performans raporu ve Grad-CAM görselleri.  
 
 ---
 
